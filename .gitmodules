@@ -1,4 +1,4 @@
-[submodule "themes\\ghostwriter"]
-	path = themes\\ghostwriter
+[submodule "themes/ghostwriter"]
+	path = themes/ghostwriter
 	url = https://github.com/dvgamerr/hugo-theme-ghostwriter.git
 	
