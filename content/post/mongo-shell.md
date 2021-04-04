@@ -1,12 +1,12 @@
 +++
 title = "Create user and root account in mongodb"
-description = "Create user root and "
+description = "Create user and root mongodb init server."
 tags = [
     "mongo",
     "user"
 ]
 date = 2020-12-08T02:13:50Z
-author = "Kananek Thongkam"
+author = "Kananek T."
 +++
 
 After create mongodb service or run in docker

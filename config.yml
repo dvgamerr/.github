@@ -3,6 +3,7 @@ languageCode: "en-us"
 title: "TOUNO.io"
 theme: "ghostwriter"
 copyright: Kananek T.
+googleAnalytics: UA-70130307-8
 
 markup:
   highlight:
@@ -18,10 +19,14 @@ markup:
 privacy:
   disqus:
     disable: true
+  googleAnalytics:
+    anonymizeIP: true
+    respectDoNotTrack: true
+    useSessionStorage: false
 
 author:
   name: Kananek T.
-  profile: "asd"
+  profile: "https://mr.touno.io"
 
 taxonomies:
   tag: tags
@@ -30,8 +35,8 @@ params:
   mainSections:
     - post
   intro: true
-  headline: Blogs
-  description: Write whatever I write it down.
+  headline: Kananek T. 🌑
+  description: 🤣 Write whatever I write it down. 
   github: "https://github.com/dvgamerr"
   twitter: "https://twitter.com/dvgamerr"
   facebook: "https://www.facebook.com/dvgamerr"
