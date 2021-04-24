@@ -36,7 +36,7 @@ params:
     - post
   intro: true
   headline: Kananek T. 🌑
-  description: 🤣 Write whatever I write it down. 
+  description: I'm KEM, Mr.Kananek Thongkam 🤣 Write whatever I write it down. 
   github: "https://github.com/dvgamerr"
   twitter: "https://twitter.com/dvgamerr"
   facebook: "https://www.facebook.com/dvgamerr"
@@ -60,4 +60,4 @@ params:
     serverURL: ""
 
 permalinks:
-  post: "/:year/:month/:day/:filename/"
+  post: "/:filename/"

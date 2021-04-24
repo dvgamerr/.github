@@ -1,12 +1,12 @@
 +++
-title = "Key-based Authentication for OpenSSH on Windows"
-description = "Key-based Authentication for OpenSSH on Windows"
+title = "วิธีทำ Key-based Authentication สำหรับ OpenSSH บน Windows"
+description = "Key-based Authentication for OpenSSH"
 tags = [
     "mongo",
     "user"
 ]
 date = 2020-12-28T06:43:18Z
-author = "Kananek T."
+author = "Kananek Thongkam"
 +++
 
 **Admin Users**

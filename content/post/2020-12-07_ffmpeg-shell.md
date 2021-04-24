@@ -1,5 +1,5 @@
 +++
-title = "ffmpeg enhance video"
+title = "รวมคำสั่งที่ใช้ enhance video ด้วย ffmpeg"
 description = "ffmpeg enhance video for loop windows command"
 tags = [
     "ffmpeg",
@@ -8,7 +8,7 @@ tags = [
     "windows"
 ]
 date = 2020-12-07T14:52:13Z
-author = "Kananek T."
+author = "Kananek Thongkam"
 +++
 
 Windows 10 user installation `ffmpeg` from chocolatey.
